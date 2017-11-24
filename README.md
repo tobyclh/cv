@@ -6,21 +6,21 @@ Things I did, I do and I will continue to do. In Japan, they call it [__Ikigai__
 
 ## Graphics
 #### imgtag2img
-__Status : Ongoing__  
+- Status : Ongoing  
 A varient of conditional GAN for SVBRDF, which user can specify tag for output texture.
 
 #### [SnowPhone](https://github.com/tobyclh/SnowPhone)
-__Status : Finished__  
+- Status : Finished  
 Like the App "Snow", but crossplatform and you can make calls, done as a school Lab assignment in less than 24 working hours.
 
 #### [SubstanceBaker](https://github.com/tobyclh/SubstanceBaker) 
-__Status : Finished__  
+- Status : Finished    
 Unity Plugins that turn [Procedural Material](https://docs.unity3d.com/Manual/ProceduralMaterials.html) into Normal Material because their UI is complete trash.
 
 #### Face Reenactment
 [EmbodyMe Inc.](https://embodyme.com/)  
-__Status : Ongoing__  
-__Responsible for : Core algorithm and initial prototype__  
+ - Status : Ongoing  
+ - Responsible for : Core algorithm and initial prototype  
 Animoji (of iPhone X) that runs on other device.  
 
 
@@ -30,19 +30,25 @@ Animoji (of iPhone X) that runs on other device.
 #### *[DollHouseVR](http://www.aist.go.jp/aist_j/press_release/pr2015/pr20151102/pr20151102.html)*
 ##### SIGGRAPH ASIA 2015,  Igarashi Lab
 
-__Status : Finished__  
-__Responsible for : Implementation__  
+- Status : Finished  
+- Responsible for : Implementation  
 Tabletop like interface investigating the communication between VR headset user   
 
 ## Hackathon related
 
 #### [Mega](https://github.com/AkariAsai/TK_1702)
-__Status : Finished__  
-__Responsible for : Concept, Design and Hardware Implementation.__  
-iOS App + Panic Button Package for Safety @ night.  
+ - Status : Finished  
+ - Responsible for : Concept, Design and Hardware Implementation.  
+iOS App + Physical Panic Button Package for night safety.  
+
+#### [FreshFridge](https://github.com/jphacks/TK_1614)
+ - Status : Finished
+ - Responsible for : Concept, Design and Hardware Implementation.   
+iOS App + IOT device for managing in fridge food condition.
 
 ## Machine Learning
 #### EEG Labelling
+-  Status : Ongoing  
 GAN that turns EEG signal to image.
 
 ####  [UnityCNTK](https://github.com/tobyclh/UnityCNTK)

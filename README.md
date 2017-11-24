@@ -4,15 +4,17 @@
 
 This repository is more about projects, both academic and hobby, Toby worked on in the pass few years. For a few CV, please refere to the LinkedIn profile.
 
-## Pure Graphics
+## Graphics
 
 ### *imgtag2img*
 ##### Igarashi Lab
 A varient of conditional GAN for SVBRDF, which user can specify tag for output texture.
 
+
 ### *Face Reenactment*
 ##### EmbodyMe Inc.
-The core algorithm and prototype of the iOS application from EmbodyMe Inc. that mimic the animoji function of iPhone X on any other device.
+Animoji (of iPhone X) that runs on older device with normal RGB camera.
+Responsible for : Core algorithm and initial prototype
 
 
 
